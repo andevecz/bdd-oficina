@@ -18,3 +18,5 @@ Utilizando o software [*BRModelo*](https://brmodelo.com/index.html) construí um
 
 ### *Modelo Lógico*
 ![Modelo Lógico](assets/modelo_logico.png)
+
+A partir deste modelo, desenvolvi a modelagem física do banco utilizando o SQL no MySQL. Os arquivos contendo a modelagem estão armazenados na pasta **SQL** do repositório.
